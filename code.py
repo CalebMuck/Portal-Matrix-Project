@@ -8,7 +8,7 @@ from adafruit_matrixportal.matrixportal import MatrixPortal
 
 TICKERS = ["AAPL", "MSFT", "NVDA", "TSLA"]
 REFRESH_MARKET_SECONDS = 120
-SCROLL_SPEED =
+SCROLL_SPEED = 1
 
 # Market hours (ET)
 MARKET_OPEN_HOUR = 9
